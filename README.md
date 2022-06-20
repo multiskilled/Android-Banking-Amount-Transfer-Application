@@ -2,10 +2,14 @@
  
  
  Application Features:
- User can create account
- User can log in and log out
- User can transfer amount to the account ID
- User can top up his/her account balance.
+ 
+    User can create account
+   
+    User can log in and log out
+    
+    User can transfer amount to the account ID
+   
+    User can top up his/her account balance.
  
  Things learnt while developing this application
  
